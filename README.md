@@ -1,4 +1,5 @@
-<h1>Summary of the Paper</h1>
+<h1>The Recursive Classification of Nuclear Fusion and Fission: A Unified Theory of Energy Perspective</h1>
+
 Fusion is a Second Degree Surface Interaction ($D=2$), occurring at the surface of Radiation Sources.
 
 Fission is a Third Degree Surface Interaction ($D=3$), occurring when a Mass Structure fragments due to excessive Gravitation.
